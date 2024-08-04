@@ -15,31 +15,5 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 
 图标预览:
 <div style="width: 100%;">
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/chrome.svg" style="max-width: 64px;width: 64px;" alt="Google Chrome">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/clash_classic.svg" style="max-width: 64px;width: 64px;" alt="clash_classic">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/clash_diy.svg" style="max-width: 64px;width: 64px;" alt="clash_diy">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/discover.svg" style="max-width: 64px;width: 64px;" alt="App Store">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/photos.svg" style="max-width: 64px;width: 64px;" alt="Photos">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/qq.svg" style="max-width: 64px;width: 64px;" alt="QQ">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/wechat.svg" style="max-width: 64px;width: 64px;" alt="Wechat">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/telegram.svg" style="max-width: 64px;width: 64px;" alt="Telegram">
-    </div>
-    <div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-        <img src="icons/blank.svg" style="max-width: 64px;width: 64px;" alt="Blank">
-    </div>
+        <img src="misc/banner.svg" style="max-width: 100%;width: 100%;" alt="Google Chrome">
 </div>
