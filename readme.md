@@ -2,7 +2,6 @@
 
 svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进行描摹
 
-
 图标样式参考的Apple App Store的图标
 
 这些图标仅出于个人喜好绘制,所有素材均来自网络公开资料,不涉及知识产权侵犯.
@@ -13,3 +12,6 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 
 画布:64x64
 图标本体:55x55
+
+图标预览:
+
