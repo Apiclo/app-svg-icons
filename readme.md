@@ -1,4 +1,4 @@
-这个主要是我对Linux上使用Reversal图标包时遇到一些不好看或是一些旧版本的图标进行的一些重绘
+chrome这个主要是我对Linux上使用Reversal图标包时遇到一些不好看或是一些旧版本的图标进行的一些重绘
 
 svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进行描摹
 
@@ -14,4 +14,30 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 图标本体:55x55
 
 图标预览:
-
+<div style="width: 64px;">
+  <img src="icons/chrome.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/clash_classic.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/clash_diy.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/discover.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/photos.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/qq.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/wechat.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/telegram.svg" style="width: 64px;" alt="">
+</div>
+<div style="width: 64px;">
+  <img src="icons/blank.svg" style="width: 64px;" alt="">
+</div>
