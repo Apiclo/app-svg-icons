@@ -1,4 +1,4 @@
-chrome这个主要是我对Linux上使用Reversal图标包时遇到一些不好看或是一些旧版本的图标进行的一些重绘
+这个主要是我对Linux上使用Reversal图标包时遇到一些不好看或是一些旧版本的图标进行的一些重绘
 
 svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进行描摹
 
