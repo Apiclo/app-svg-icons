@@ -12,6 +12,7 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 
 画布:64x64
 图标本体:55x55
+方框内圆形图标: 42/45
 
 图标预览:
 <div style="width: 100%;">
