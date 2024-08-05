@@ -22,8 +22,13 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 		<img src="icons/discover.svg" style="max-width: 64px;width: 64px;" alt="App Store">
 		<img src="icons/photos.svg" style="max-width: 64px;width: 64px;" alt="Photos">
 		<img src="icons/qq.svg" style="max-width: 64px;width: 64px;" alt="QQ">
-    	<img src="icons/wechat.svg" style="max-width: 64px;width: 64px;" alt="Wechat">
+		<img src="icons/wechat.svg" style="max-width: 64px;width: 64px;" alt="Wechat">
 		<img src="icons/telegram.svg" style="max-width: 64px;width: 64px;" alt="Telegram">
+		<img src="icons/steam.svg" style="max-width: 64px;width: 64px;" alt="Steam">
+		<img src="icons/github.svg" style="max-width: 64px;width: 64px;" alt="GitHub">
+		<img src="icons/obs.svg" style="max-width: 64px;width: 64px;" alt="OBS Studio">
+		<img src="icons/steam_round.svg" style="max-width: 64px;width: 64px;" alt="Steam">
+		<img src="icons/musically.svg" style="max-width: 64px;width: 64px;" alt="Douyin">
 		<img src="icons/blank.svg" style="max-width: 64px;width: 64px;" alt="Blank">
-	</div>
+
 </div>
