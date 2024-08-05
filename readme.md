@@ -30,5 +30,5 @@ svg来源大部分是svg repo 和wikipedia提供,一部分是使用Inkscape进�
 		<img src="icons/steam_round.svg" style="max-width: 64px;width: 64px;" alt="Steam">
 		<img src="icons/musically.svg" style="max-width: 64px;width: 64px;" alt="Douyin">
 		<img src="icons/blank.svg" style="max-width: 64px;width: 64px;" alt="Blank">
-
+    </div>
 </div>
