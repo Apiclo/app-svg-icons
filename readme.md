@@ -1,18 +1,21 @@
 <div style="width: 100%;">
 	<div style="display:inline; margin:2px;max-width: 64px;width: 64px;">
-		<img src="icons/chrome.svg" style="max-width: 64px;width: 64px;" alt="Google Chrome">
-		<img src="icons/clash_classic.svg" style="max-width: 64px;width: 64px;" alt="clash_classic">
-		<img src="icons/clash_diy.svg" style="max-width: 64px;width: 64px;" alt="clash_diy">
+		<img src="icons/google-chrome.svg" style="max-width: 64px;width: 64px;" alt="Google Chrome">
+		<img src="icons/google-chrome-canary.svg" style="max-width: 64px;width: 64px;" alt="Google Chrome Canary">
+		<img src="icons/clash.svg" style="max-width: 64px;width: 64px;" alt="clash_classic">
+		<img src="icons/clash-verge.svg" style="max-width: 64px;width: 64px;" alt="clash_diy">
 		<img src="icons/discover.svg" style="max-width: 64px;width: 64px;" alt="App Store">
 		<img src="icons/photos.svg" style="max-width: 64px;width: 64px;" alt="Photos">
 		<img src="icons/qq.svg" style="max-width: 64px;width: 64px;" alt="QQ">
 		<img src="icons/wechat.svg" style="max-width: 64px;width: 64px;" alt="Wechat">
 		<img src="icons/telegram.svg" style="max-width: 64px;width: 64px;" alt="Telegram">
 		<img src="icons/steam.svg" style="max-width: 64px;width: 64px;" alt="Steam">
-		<img src="icons/github.svg" style="max-width: 64px;width: 64px;" alt="GitHub">
+		<img src="icons/github-desktop.svg" style="max-width: 64px;width: 64px;" alt="GitHub Desktop">
 		<img src="icons/obs.svg" style="max-width: 64px;width: 64px;" alt="OBS Studio">
 		<img src="icons/steam_round.svg" style="max-width: 64px;width: 64px;" alt="Steam">
 		<img src="icons/musically.svg" style="max-width: 64px;width: 64px;" alt="Douyin">
+		<img src="icons/preferences-system.svg" style="max-width: 64px;width: 64px;" alt="System Settings">
+		<img src="icons/switch.svg" style="max-width: 64px;width: 64px;" alt="Switch Connect">
 		<img src="icons/blank.svg" style="max-width: 64px;width: 64px;" alt="Blank">
     </div>
 </div>
